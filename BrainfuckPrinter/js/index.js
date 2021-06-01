@@ -1,5 +1,4 @@
-const brainfrain = "TO THIS DAY, i still think this program is impressive"
-let ratio = 8
+let ratio = 8 // I'll allow this to be changed later.. jk no I won't make a fork and make it yourself sucks to suck
 
 function getAsciiCode(character) {
   return character.charCodeAt(0)
