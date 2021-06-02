@@ -1,1 +1,0 @@
-# cosmiccollapse.github.io
